@@ -1,0 +1,40 @@
+.color1{background: #e9e9e9;}
+.color2{background: #00437a;}
+.color3{background: #cca338;}
+.color4{background: #b40808;}
+.color5{background: white}
+.colorText1{color: #b40808;}
+.colorText2{color: #00437a;}
+.colorText3{color: white;}
+.colorText4{color: gray;}
+
+body{
+    font: 1.1em 'Roboto-Regular';
+}
+.caja{
+    width: 100%;
+    margin-top: 20px;
+    padding-left: 4%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-right: 4%; 
+    background-color: white;
+    border:3px solid white;
+    border-radius:5px;
+}
+header{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+center{
+    padding-bottom:5px;
+    padding-top: 5px; 
+}
+
+@font-face{
+    font-family:'Roboto-Regular';
+    src:url(fuentes/Roboto-Regular.ttf);
+}
+
+
